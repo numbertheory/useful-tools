@@ -1,0 +1,7 @@
+[project]
+name = "useful-tools"
+version = "0.1.0"
+description = "Useful admin tools for POSIX systems."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
